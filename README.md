@@ -4,7 +4,7 @@ Hello! My name is Yi Lin. I recently graduated summa cum laude from Harvard with
 
 ## Projects
 
-[Senior Thesis: Imitation Learning Through Ranked Demonstrations](https://github.com/yilin-wang/yilin-wang.github.io/blob/master/WANG-SENIORTHESIS-2021.pdf)
+[Senior Thesis: Imitation Learning Through Ranked Demonstrations](https://github.com/yilin-wang/tril)
 
 * Senior thesis on imitation learning through an inverse RL method.
 
