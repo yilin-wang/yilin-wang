@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! My name is Yi Lin. I recently graduated summa cum laude from Harvard with a bachelor's in Computer Science. I am interested in software engineering and data science positions.
+Hello! My name is Yi Lin. I'm a software engineer at Google. Previously, I graduated summa cum laude from Harvard with a bachelor's in Computer Science.
 
 ## Projects
 
