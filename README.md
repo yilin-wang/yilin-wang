@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! My name is Yi Lin. I'm a software engineer at Google. Previously, I graduated summa cum laude from Harvard with a bachelor's in Computer Science.
+Hello! My name is Yi Lin. I'm a software engineer at Google. Previously I was an undergrad at Harvard studying Computer Science.
 
 ## Projects
 
